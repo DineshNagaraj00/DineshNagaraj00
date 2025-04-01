@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @DineshNagaraj00
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Full stack Python
 - 📫 Email : dineshck75@gmail.com
 - ✨ UI/UX Designer and graphic Designer
 - portfolio link:https://www.behance.net/dineshnagaraj1
